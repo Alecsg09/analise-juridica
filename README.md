@@ -31,8 +31,7 @@ O principal objetivo deste projeto é:
 - **Pandas**: Biblioteca para manipulação de dados e análise estatística.
 - **Matplotlib**: Biblioteca para visualização de gráficos e informações.
 
-## Exemplos de Gráficos
-(images/grafico_resultados_processos.png)
+
 
 ### Resultados dos Processos e Probabilidade de Sucesso por Tipo de Tributo
 
